@@ -6,6 +6,7 @@ Lamtharn (Hanoi) Hantrakul, Rodaan Peralta-Rabang, Eric Chen, Sam Samskies and R
 
 # Checkout the Demo video!
 Thanks to PubNub for making this awesome video!
+
 [![Video link](https://github.com/lamtharnhantrakul/mSynth/blob/master/assets/youtube.png)](https://www.youtube.com/watch?v=DIHNMGTdo_w)
 
 # Google Magenta Blog feature
